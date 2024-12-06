@@ -11,6 +11,6 @@ To view your **Done Tasks**, click the ✅ icon. If you want to delete a complet
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/2a0d84fc-bfd3-4a3f-b446-1c298706d00d" style="width: 33%;">
-<img src="https://github.com/user-attachments/assets/58ccdf1b-6fc7-4597-b617-e5b4c7dcc630" style="width: 33%;">
-<img src="https://github.com/user-attachments/assets/af838813-3335-4f54-9abb-4d8d7cb4ef08" style="width: 33%;">
+<img src="https://github.com/user-attachments/assets/2a0d84fc-bfd3-4a3f-b446-1c298706d00d" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/58ccdf1b-6fc7-4597-b617-e5b4c7dcc630" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/af838813-3335-4f54-9abb-4d8d7cb4ef08" style="width: 32%;">
